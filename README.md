@@ -1,5 +1,27 @@
 MIWOK Translation Mobile Application 
 
+Has four Models 
+
+-> Numbers 
+
+   > Screen with numbers along with image visual with miwok(Language) will be displayed.
+   > on user click the audio file will be played accourding to the item clicked.
+
+-> Colours 
+
+   > Screen with colors along with image visual with miwok(Language) will be displayed.
+   > on user click the audio file will be played accourding to the item clicked.
+
+-> Pharses 
+
+   > Screen with pharses along with miwok(Language) will be displayed.
+   > on user click the audio file will be played accourding to the item clicked.
+
+-> Family members 
+
+   > Screen with Family members along with image visual with miwok(Language) will be displayed.
+   > on user click the audio file will be played accourding to the item clicked.
+
 
 
 
